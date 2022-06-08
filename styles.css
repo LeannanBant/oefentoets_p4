@@ -27,3 +27,15 @@ ul.menu {
   ul.menu > li > a:hover {
     background-color: #111;
   }
+
+  .red {
+    color: red;
+  }
+
+  .green {
+    color: green;
+  }
+
+  .blue {
+    color: blue;
+  }
